@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/danie/OneDrive/Escritorio/DoubleLinkedList-main/Nodo_Structure/LinkedList.cpp
+LinkedList.h
+C:/Users/danie/OneDrive/Escritorio/DoubleLinkedList-main/Nodo_Structure/LinkedList.h
+
+C:/Users/danie/OneDrive/Escritorio/DoubleLinkedList-main/Nodo_Structure/LinkedList.h
+vector
+-
+Node.h
+C:/Users/danie/OneDrive/Escritorio/DoubleLinkedList-main/Nodo_Structure/Node.h
+string
+-
+
+C:/Users/danie/OneDrive/Escritorio/DoubleLinkedList-main/Nodo_Structure/Management.cpp
+Management.h
+C:/Users/danie/OneDrive/Escritorio/DoubleLinkedList-main/Nodo_Structure/Management.h
+
+C:/Users/danie/OneDrive/Escritorio/DoubleLinkedList-main/Nodo_Structure/Management.h
+string.h
+-
+LinkedList.cpp
+C:/Users/danie/OneDrive/Escritorio/DoubleLinkedList-main/Nodo_Structure/LinkedList.cpp
+Nvidia.h
+C:/Users/danie/OneDrive/Escritorio/DoubleLinkedList-main/Nodo_Structure/Nvidia.h
+vector
+-
+
+C:/Users/danie/OneDrive/Escritorio/DoubleLinkedList-main/Nodo_Structure/Node.h
+cstdlib
+-
+
+C:/Users/danie/OneDrive/Escritorio/DoubleLinkedList-main/Nodo_Structure/Nvidia.h
+string
+-
+ostream
+-
+
